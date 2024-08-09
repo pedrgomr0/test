@@ -1,4 +1,4 @@
-tipo,campo,tabla
+tipo,tabla,campo
 26,UnidadGeneracion,objID
 26,UnidadGeneracion,version
 26,UnidadGeneracion,nombre
