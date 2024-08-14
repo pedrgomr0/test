@@ -38,3 +38,4 @@ tipo,tabla,campo
 26,UnidadGeneracion,velCarga
 26,UnidadGeneracion,velDescarga
 26,UnidadGeneracion,esCompartido
+26,GrupoGeneracion,nombreAlterno
